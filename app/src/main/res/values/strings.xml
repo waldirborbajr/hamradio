@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Ham Radio</string>
+  <string name="app_name">Ham Radio</string>
   <string name="txt_title">Ham Radio Config</string>
 </resources>
