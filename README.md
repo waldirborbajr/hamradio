@@ -2,4 +2,4 @@
 Ham Radio Config
 
 
-![alt text](https://github.com/waldirborbajr/hamradio/blob/main/images/screenshot.png)
+![alt text](./images/screenshot.png "Logo")
