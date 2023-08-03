@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="black">#FF000000</color>
+  <color name="white">#FFFFFFFF</color>
+  <color name="frappe_Rosewater">#f2d5cf</color>
+  <color name="frappe_Flamingo">#eebebe</color>
+  <color name="frappe_Pink">#f4b8e4</color>
+  <color name="frappe_Mauve">#ca9ee6</color>
+  <color name="frappe_Red">#e78284</color>
+  <color name="frappe_Maroon">#ea999c</color>
+  <color name="frappe_Peach">#ef9f76</color>
+  <color name="frappe_Yellow">#e5c890</color>
+  <color name="frappe_Green">#a6d189</color>
+  <color name="frappe_Teal">#81c8be</color>
+  <color name="frappe_Sky">#99d1db</color>
+  <color name="frappe_Sapphire">#85c1dc</color>
+  <color name="frappe_Blue">#8caaee</color>
+  <color name="frappe_Lavender">#babbf1</color>
+  <color name="frappe_Text">#c6d0f5</color>
+  <color name="frappe_Subtext1">#b5bfe2</color>
+  <color name="frappe_Subtext0">#a5adce</color>
+  <color name="frappe_Overlay2">#949cbb</color>
+  <color name="frappe_Overlay1">#838ba7</color>
+  <color name="frappe_Overlay0">#737994</color>
+  <color name="frappe_Surface2">#626880</color>
+  <color name="frappe_Surface1">#51576d</color>
+  <color name="frappe_Surface0">#414559</color>
+  <color name="frappe_Base">#303446</color>
+  <color name="frappe_Mantle">#292c3c</color>
+  <color name="frappe_Crust">#232634</color>
+</resources>
+
