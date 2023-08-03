@@ -1,5 +1,4 @@
 # hamradio
 Ham Radio Config
 
-
-![alt text](./images/screenshot.png "Logo")
+ <img src="./images/screenshot.png" width="150">
